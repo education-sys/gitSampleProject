@@ -1,6 +1,6 @@
 public class ExampleClass {
 
-public int age;
+public int miles;
 
 
 
